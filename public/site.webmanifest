@@ -1,0 +1,16 @@
+{
+  "name": "WIDE LIFE",
+  "short_name": "WIDE LIFE",
+  "description": "Art, fashion and custom tailoring by WIDE LIFE.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d0d0d",
+  "theme_color": "#0d0d0d",
+  "icons": [
+    {
+      "src": "/assets/wide-life-mark.jpg",
+      "sizes": "1080x1080",
+      "type": "image/jpeg"
+    }
+  ]
+}
