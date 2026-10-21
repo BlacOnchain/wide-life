@@ -12,6 +12,8 @@ export const CONFIG = {
   ownerUrl: 'https://www.instagram.com/mides_life/',
   whatsappUrl: 'https://wa.me/2349018060804',
   mark: '/assets/wide-life-mark.jpg',
+  founderImage: '/assets/mides-founder.jpg',
+  founderDetailImage: '/assets/mides-detail.jpg',
   heroImage: '/assets/lookbook/DUufHxTCiDG/instabulkdownloader.com_DUufHxTCiDG_01.jpg',
   heroFilm: '/assets/films/instabulkdownloader.com_DXCofUqKy0e.mp4',
   stories: [
